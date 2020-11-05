@@ -1,4 +1,4 @@
-token = "78c65e518b0d2461106e05346524dfadc04cf41d48eee989812a899b68fe3aef35e7b6b6839d501a753ea"
+token = "not for this"
 
 import summ
 import date as d
